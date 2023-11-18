@@ -1,0 +1,18 @@
+table {
+    width: 50%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .tab{
+    align-items: center;
+
+  }
+  .img{
+      width: 50px;
+  }
